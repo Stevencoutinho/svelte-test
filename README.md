@@ -14,12 +14,12 @@ Svelte の技術調査を兼ねて簡単なアプリを作成。
 yarn install
 ```
 
-3. 開発サーバー立ち上げ
+2. 開発サーバー立ち上げ
 
 ```properties
 yarn dev
 ```
 
-4. ブラウザでアクセス
+3. ブラウザでアクセス
 
 ブラウザで [http://localhost:3000](http://localhost:3000) にアクセスして開発してください。
