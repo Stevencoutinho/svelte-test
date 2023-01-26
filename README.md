@@ -22,4 +22,4 @@ yarn dev
 
 3. ブラウザでアクセス
 
-ブラウザで [http://localhost:3000](http://localhost:3000) にアクセスして開発してください。
+ブラウザで [http://localhost:3000](http://localhost:3000) にアクセスして開発する。
